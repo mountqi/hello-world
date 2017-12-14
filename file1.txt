@@ -1,2 +1,5 @@
  add one line from github
 second line
+add feature1
+fix bug on version1.0
+hello stash on bug
